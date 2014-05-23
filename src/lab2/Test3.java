@@ -1,8 +1,8 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 3 - PreLab                                  Test3.jshl
+//  Laboratory 3 - PreLab                                  Test3.java
 //
-//  SHELL:
+//  
 //  Test program for practicing operations in the built-in String ADT
 //
 //--------------------------------------------------------------------
