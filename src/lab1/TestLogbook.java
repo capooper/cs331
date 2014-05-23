@@ -1,11 +1,12 @@
 //--------------------------------------------------------------------
 //
 //  Laboratory 1                                     TestLogbook.java
+
 //
-//  Test program for the operations in the Logbook ADT
+//  Test program for the operations in the Logbook ADT.
 //
 //--------------------------------------------------------------------
-
+package lab1;
 import java.io.*;       // For reading (keyboard) & writing (screen)
 
 class TestLogbook
@@ -101,7 +102,6 @@ class TestLogbook
         }
 
         // Test 3 : Tests the calendar operation.
-        //3
           System.out.println( );
           testLog.displayCalendar();
           System.out.println( );

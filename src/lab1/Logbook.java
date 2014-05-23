@@ -8,7 +8,7 @@
 //  Implements a Logbook ADT, representing a set of integer entries for a chosen month
 //  Edited by Conor Nee
 //--------------------------------------------------------------------
-package css331.lab1;
+package lab1;
 
 import java.io.*;       // For reading (keyboard) & writing (screen)
 import java.util.*;                 // For GregorianCalendar class

@@ -5,7 +5,7 @@
 //  Implementation of the sample Coffee ADT for testing the Logbook ADT.
 //
 //--------------------------------------------------------------------
-package css331.lab1;
+package lab1;
 import java.io.*;       // For reading (keyboard) & writing (screen)
 
 class Coffee
